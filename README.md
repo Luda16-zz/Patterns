@@ -1,6 +1,18 @@
-Algorithm patterns
+#Algorithm patterns
 
-Factory
-Abstract Factory
-Builder
-Singleton
+**Creation**
+
+- Factory Method
+- Abstract Method
+- Builder 
+- Singleton
+
+
+**Structure**
+
+- Adapter
+
+
+**Behavoir**
+
+- Facade
