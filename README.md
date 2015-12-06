@@ -11,8 +11,6 @@
 **Structure**
 
 - Adapter
-
+- Facade
 
 **Behavoir**
-
-- Facade
