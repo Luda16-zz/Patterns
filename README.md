@@ -1,6 +1,6 @@
 #Algorithm patterns
 
-**Creation**
+**Creational**
 
 - Factory Method
 - Abstract Method
@@ -8,9 +8,11 @@
 - Singleton
 
 
-**Structure**
+**Structural**
 
 - Adapter
 - Facade
 
-**Behavoir**
+**Behavoiral**
+
+- Command
